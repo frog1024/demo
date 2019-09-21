@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eric-hive-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-hive-test/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-hive-udf-basefieldudf/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-spark-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-spark-sparkstreaming/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-spark-sparksql/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-kafka-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-kafka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/eric-kafka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-hive-udf-base-field-udf/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-kafka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-kafka-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-kafka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-spark-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-spark-sparksql/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-spark-sparkstreaming/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-hive-test/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-hbase-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-hbase-test/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-flink-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-flink-test/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-zookeeper-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-java-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-java-test/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-java-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-java-book/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-hive-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zp-hive-udtf-event-json-udtf/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

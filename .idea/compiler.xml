@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zp-flink-parent" />
+        <module name="zp-flink-test" />
+        <module name="zp-hbase-parent" />
+        <module name="zp-hbase-test" />
+        <module name="zp-hive-test" />
+        <module name="zp-hive-udf-base-field-udf" />
+        <module name="zp-hive-udtf-event-json-udtf" />
+        <module name="zp-java-book" />
+        <module name="zp-java-design-pattern" />
+        <module name="zp-java-parent" />
+        <module name="zp-java-test" />
+        <module name="zp-kafka-consumer" />
+        <module name="zp-kafka-parent" />
+        <module name="zp-kafka-producer" />
+        <module name="zp-spark-parent" />
+        <module name="zp-spark-sparksql" />
+        <module name="zp-spark-sparkstreaming" />
+        <module name="zp-zookeeper-parent" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
